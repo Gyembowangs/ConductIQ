@@ -1,0 +1,1234 @@
+{
+    "document": "RUB Student Code of Conduct 2026",
+    "source_file": "Final-Student-Code-of-Conduct-2026.pdf",
+    "notes": [
+        "This ruleset covers every misconduct category listed in Chapter III (sections 3.1.1–3.7). It does not claim the list is exhaustive; section 3 states additional conduct may be addressed.",
+        "Measures are possibilities, not automatic penalties or a mandatory sequence. The Code requires case-specific, proportionate decisions; see section 3, page 9.",
+        "The PDF uses printed page numbers in this dataset. For example, printed page 9 corresponds to PDF page 10 if the cover page is counted as PDF page 1.",
+        "An empty conditions or exceptions array means none were explicitly specified in that misconduct subsection; it does not imply other Code provisions do not apply."
+    ],
+    "rules": [
+        {
+            "rule_id": "CONDUCT_001",
+            "rule_type": "conduct",
+            "category": "Academic and Integrity-Related Misconduct",
+            "rule_name": "Academic Dishonesty",
+            "section_number": "3.1.1",
+            "description": "Academic dishonesty is defined and dealt with under the Wheel of Academic Law and other applicable University policies and regulations.",
+            "possible_measures": [],
+            "conditions": [
+                "Refer to the Wheel of Academic Law and applicable University policies and regulations for definition and handling."
+            ],
+            "exceptions": [],
+            "source_quote": "Academic dishonesty shall be defined and dealt with in accordance with the provisions in the Wheel of Academic Law and other applicable University policies and regulations.",
+            "source_page": 9,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "plagiarism",
+                "plagiarize",
+                "plagiarized",
+                "plagiarizes",
+                "plagiarizing",
+                "cheating",
+                "academic cheating",
+                "copying assignments",
+                "copying another student's work",
+                "unauthorized collaboration",
+                "contract cheating",
+                "exam malpractice",
+                "academic misconduct",
+                "dishonest academic work"
+            ],
+            "example_queries": [
+                "What counts as cheating in college?",
+                "What happens if I copy another student's assignment?",
+                "Is plagiarism considered academic dishonesty?",
+                "Can someone else complete my assignment?",
+                "What if I cheat during an examination?",
+                "Is submitting copied work misconduct?",
+                "What does the university say about academic cheating?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_002",
+            "rule_type": "conduct",
+            "category": "Academic and Integrity-Related Misconduct",
+            "rule_name": "Falsification",
+            "section_number": "3.1.2",
+            "description": "Knowingly providing false or misleading information, altering or misrepresenting information or documents, or knowingly withholding material information with the intention of deceiving or misleading the University.",
+            "possible_measures": [
+                "Community service",
+                "Written statement and warning letter",
+                "Student and parent/guardian undertaking and suspension from the College for a year",
+                "Withdrawal or cancellation of benefit or academic/administrative outcome obtained through falsification, where applicable",
+                "Withholding or deferral of an academic award or other recognition, where applicable"
+            ],
+            "conditions": [
+                "Knowledge and intent to deceive or mislead the University are specified in the definition."
+            ],
+            "exceptions": [],
+            "source_quote": "Falsification refers to knowingly providing false or misleading information, altering or misrepresenting information or documents, or knowingly withholding material information with the intention of deceiving or misleading the University.",
+            "source_page": 9,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "falsification",
+                "falsify",
+                "falsified",
+                "false information",
+                "misleading information",
+                "fake information",
+                "altering records",
+                "changing documents",
+                "tampering with documents",
+                "withholding information",
+                "lying to the university",
+                "false details",
+                "misrepresenting information"
+            ],
+            "example_queries": [
+                "What happens if I provide false information to the university?",
+                "Is giving fake information considered misconduct?",
+                "Can I get in trouble for changing official records?",
+                "What if I submit misleading documents?",
+                "Is hiding important information from the university misconduct?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_003",
+            "rule_type": "conduct",
+            "category": "Academic and Integrity-Related Misconduct",
+            "rule_name": "Forgery",
+            "section_number": "3.1.3",
+            "description": "Making, creating, altering, reproducing, or using a false, fraudulent, or unauthorised document, record, signature, identification, certificate, academic credential, or other University-related information with the specified deceptive or unfair-advantage intent.",
+            "possible_measures": [
+                "Student or parent/guardian undertaking",
+                "Withdrawal or cancellation of benefit or academic/administrative outcome obtained through forgery, where applicable",
+                "Suspension from the College for a year",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Referral to the Royal Bhutan Police and/or expulsion from the College"
+            ],
+            "conditions": [
+                "Definition requires intention to deceive, misrepresent, obtain an unfair advantage, or cause another person to believe the item is genuine or authorised."
+            ],
+            "exceptions": [],
+            "source_quote": "Forgery refers to making, creating, altering, reproducing, or using a false, fraudulent, or unauthorised document, record, signature, identification, certificate, academic credential, or other University-related information, with the intention to deceive, misrepresent, obtain an unfair advantage, or cause another person to believe that it is genuine or authorised.",
+            "source_page": 9,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "forgery",
+                "forge",
+                "forged",
+                "forging",
+                "fake certificate",
+                "forged certificate",
+                "fake signature",
+                "forged signature",
+                "fake identification",
+                "fake id",
+                "fake academic record",
+                "fake transcript",
+                "fake document",
+                "unauthorized document",
+                "altered certificate",
+                "fraudulent document"
+            ],
+            "example_queries": [
+                "What happens if I use a fake certificate?",
+                "Is forging a signature misconduct?",
+                "Can I submit a fake academic transcript?",
+                "What if I alter an official university document?",
+                "Is using a fake identification card misconduct?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_004",
+            "rule_type": "conduct",
+            "category": "Academic and Integrity-Related Misconduct",
+            "rule_name": "False Charges",
+            "section_number": "3.1.4",
+            "description": "Knowingly or recklessly making a false or materially misleading allegation of misconduct or wrongdoing against a person or the University, without reasonable basis or with intent to cause harm, harassment, or reputational damage.",
+            "possible_measures": [
+                "Community service",
+                "Written statement and warning letter",
+                "Withdrawal of certain privileges",
+                "Student and parent/guardian undertaking and suspension from the College for a year",
+                "Withholding or deferral of an academic award or other recognition, where applicable"
+            ],
+            "conditions": [
+                "The allegation is knowingly or recklessly false/materially misleading and is without reasonable basis or made with the specified harmful intent."
+            ],
+            "exceptions": [],
+            "source_quote": "False charges refer to knowingly or recklessly making a false or materially misleading allegation of misconduct or wrongdoing against another person or the University, without a reasonable basis, or with the intention to cause harm, harassment, or reputational damage.",
+            "source_page": 10,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "false charges",
+                "false accusation",
+                "false accusations",
+                "false allegation",
+                "false allegations",
+                "fake complaint",
+                "malicious complaint",
+                "baseless accusation",
+                "fabricated allegation",
+                "lying about someone",
+                "false report",
+                "defamatory complaint"
+            ],
+            "example_queries": [
+                "What happens if someone makes a false accusation against me?",
+                "Is making a fake complaint against another student misconduct?",
+                "Can I be punished for knowingly making a false report?",
+                "What is a malicious complaint?",
+                "Is falsely accusing someone of misconduct a violation?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_005",
+            "rule_type": "conduct",
+            "category": "Respect, Safety and Personal Conduct",
+            "rule_name": "Bullying/ragging",
+            "section_number": "3.2.1",
+            "description": "Conduct that humiliates, intimidates, threatens, demeans, harasses, or causes physical, psychological, or emotional harm to another person, in person or digitally.",
+            "possible_measures": [
+                "Student written statement, parent/guardian undertaking, and community service",
+                "Student written statement, parent/guardian undertaking, and suspension from the College for a year",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Referral to the Royal Bhutan Police and/or expulsion from the College"
+            ],
+            "conditions": [],
+            "exceptions": [],
+            "source_quote": "Ragging or bullying refers to conduct that humiliates, intimidates, threatens, demeans, harasses, or causes physical, psychological, or emotional harm to another person, whether committed in person or through digital means.",
+            "source_page": 10,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "bullying",
+                "bully",
+                "bullied",
+                "bullies",
+                "ragging",
+                "harassment",
+                "intimidation",
+                "threatening a student",
+                "humiliating someone",
+                "cyberbullying",
+                "online bullying",
+                "physical bullying",
+                "verbal bullying",
+                "mental harassment",
+                "emotional abuse",
+                "teasing and intimidation"
+            ],
+            "example_queries": [
+                "What happens if I bully another student?",
+                "Is ragging considered misconduct?",
+                "Can cyberbullying lead to disciplinary action?",
+                "Is repeatedly humiliating someone bullying?",
+                "What if seniors intimidate junior students?",
+                "Does online harassment count as bullying?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_006",
+            "rule_type": "conduct",
+            "category": "Respect, Safety and Personal Conduct",
+            "rule_name": "Sexual harassment",
+            "section_number": "3.2.2",
+            "description": "Unwelcome sexual advances, requests, comments, gestures, physical contact, or other verbal, written, visual, or digital conduct of a sexual nature that violates another University community member's dignity, safety, or wellbeing.",
+            "possible_measures": [
+                "Written statement and warning letter",
+                "Student/parent/guardian undertaking and suspension from the College for a year",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Referral to the Royal Bhutan Police and/or expulsion from the College"
+            ],
+            "conditions": [
+                "Conduct is unwelcome, of a sexual nature, and violates dignity, safety, or wellbeing."
+            ],
+            "exceptions": [],
+            "source_quote": "Sexual harassment refers to unwelcome sexual advances, requests, comments, gestures, physical contact, or other verbal, written, visual, or digital conduct of a sexual nature that violates the dignity, safety, or wellbeing of another member of the University community.",
+            "source_page": 10,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "sexual harassment",
+                "unwanted sexual comments",
+                "unwanted touching",
+                "sexual advances",
+                "sexual remarks",
+                "sexual gestures",
+                "inappropriate sexual messages",
+                "online sexual harassment",
+                "unwelcome sexual conduct",
+                "sexual intimidation"
+            ],
+            "example_queries": [
+                "What counts as sexual harassment in college?",
+                "What if someone sends unwanted sexual messages?",
+                "Is unwanted touching sexual harassment?",
+                "Are inappropriate sexual comments considered misconduct?",
+                "Can online sexual harassment be reported?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_007",
+            "rule_type": "conduct",
+            "category": "Respect, Safety and Personal Conduct",
+            "rule_name": "Stalking",
+            "section_number": "3.2.3",
+            "description": "Repeatedly or persistently following, watching, contacting, monitoring, or approaching someone in a manner causing fear, distress, or concern for safety or privacy.",
+            "possible_measures": [
+                "Community service",
+                "Written statement and warning letter",
+                "Student/parent/guardian undertaking and withdrawal of certain privileges",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Referral to the Royal Bhutan Police and/or suspension from the College for a year"
+            ],
+            "conditions": [
+                "The conduct is repeated or persistent and causes fear, distress, or concern for safety or privacy."
+            ],
+            "exceptions": [],
+            "source_quote": "Stalking refers to repeatedly or persistently following, watching, contacting, monitoring, or approaching a person in a manner that causes fear, distress, or concern for their safety or privacy.",
+            "source_page": 10,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "stalking",
+                "stalker",
+                "following someone repeatedly",
+                "watching someone",
+                "monitoring someone",
+                "tracking someone",
+                "repeated unwanted contact",
+                "repeatedly messaging someone",
+                "unwanted following",
+                "privacy invasion",
+                "online stalking",
+                "cyberstalking"
+            ],
+            "example_queries": [
+                "What happens if I repeatedly follow another student?",
+                "Is constantly messaging someone stalking?",
+                "What if someone monitors my activities without permission?",
+                "Does online stalking count as misconduct?",
+                "Can repeated unwanted contact be considered stalking?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_008",
+            "rule_type": "conduct",
+            "category": "Respect, Safety and Personal Conduct",
+            "rule_name": "Blackmail",
+            "section_number": "3.2.4",
+            "description": "Threatening to reveal, publish, or use someone's private, sensitive, or damaging information unless that person does something, gives something, or complies with a demand.",
+            "possible_measures": [
+                "Written statement and withdrawal of certain privileges",
+                "Student/parent/guardian undertaking and suspension from the College for a year",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Referral to the Royal Bhutan Police and/or expulsion from the College"
+            ],
+            "conditions": [],
+            "exceptions": [],
+            "source_quote": "Blackmailing refers to threatening to reveal, publish, or use a person’s private, sensitive, or damaging information unless that person does something, gives something, or complies with a demand.",
+            "source_page": 11,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "blackmail",
+                "blackmailing",
+                "extortion",
+                "threatening to expose",
+                "threatening to publish private information",
+                "demanding money by threats",
+                "using private information as a threat",
+                "threatening someone for money",
+                "coercion"
+            ],
+            "example_queries": [
+                "What happens if someone threatens to expose my private information?",
+                "Is demanding money by threatening someone blackmail?",
+                "Can threatening to publish private photos be misconduct?",
+                "What is considered blackmailing?",
+                "Is using someone's secrets to threaten them misconduct?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_009",
+            "rule_type": "conduct",
+            "category": "Respect, Safety and Personal Conduct",
+            "rule_name": "Fighting",
+            "section_number": "3.2.5",
+            "description": "Physical or verbal confrontation involving physical violence, attempted force, threats, intimidation, abusive or aggressive language, or other hostile behaviour threatening others' safety, dignity, or wellbeing or disrupting the peaceful University environment.",
+            "possible_measures": [
+                "Student written statement, community service, and warning letter",
+                "Student/parent/guardian undertaking and withdrawal of certain privileges",
+                "Suspension from the College for a year",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Referral to the Royal Bhutan Police and/or expulsion from the College"
+            ],
+            "conditions": [],
+            "exceptions": [],
+            "source_quote": "Fighting refers to any physical or verbal confrontation involving physical violence, attempted use of force, threats, intimidation, abusive or aggressive language, or other hostile behaviour that threatens the safety, dignity or wellbeing of others or disrupts the peaceful enviornment of the University community",
+            "source_page": 11,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "fighting",
+                "physical fight",
+                "verbal fight",
+                "assault",
+                "physical violence",
+                "attempted violence",
+                "using force",
+                "threatening behaviour",
+                "aggressive language",
+                "violent confrontation",
+                "campus fight",
+                "student fight",
+                "intimidating others"
+            ],
+            "example_queries": [
+                "What happens if students fight on campus?",
+                "Is a physical fight considered misconduct?",
+                "Can threatening another student be considered fighting?",
+                "Does verbal aggression count as fighting?",
+                "What happens if I get involved in a campus fight?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_010",
+            "rule_type": "conduct",
+            "category": "Respect, Safety and Personal Conduct",
+            "rule_name": "Gang-related conduct",
+            "section_number": "3.2.6",
+            "description": "Forming, joining, affiliating with, or participating in a gang or organised group whose activities involve or are intended to facilitate violence, intimidation, threats, or other conduct threatening community peace, safety, or harmony.",
+            "possible_measures": [
+                "Student written statement, student and parent/guardian undertaking, and suspension from the College for a year",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Referral to the Royal Bhutan Police and/or expulsion from the College"
+            ],
+            "conditions": [],
+            "exceptions": [],
+            "source_quote": "Gang-related conduct refers to forming, joining, affiliating with or participating in a gang or other organised group whose activities involve or are intended to facilitate violence, intimidation, threats, or other conduct that threatens the peace, safety, or harmony of the community.",
+            "source_page": 11,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "gang",
+                "gang activity",
+                "gang-related behaviour",
+                "joining a gang",
+                "forming a gang",
+                "organised group violence",
+                "organized group violence",
+                "group intimidation",
+                "group threats",
+                "violent group",
+                "gang membership",
+                "gang participation"
+            ],
+            "example_queries": [
+                "Is joining a violent gang considered misconduct?",
+                "What happens if students participate in gang activities?",
+                "Can forming a violent group violate the code?",
+                "Is participating in organised group violence misconduct?",
+                "What if a student joins a gang?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_011",
+            "rule_type": "conduct",
+            "category": "Respect, Safety and Personal Conduct",
+            "rule_name": "Rioting",
+            "section_number": "3.2.7",
+            "description": "Participating in, inciting, or organising disorderly group action, including a demonstration involving or likely to involve violence, property destruction, disruption of University operations or public order, or grave risk to persons or property.",
+            "possible_measures": [
+                "Student written statement, student and parent/guardian undertaking, and suspension from the College for a year",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Referral to the Royal Bhutan Police and/or expulsion from the College"
+            ],
+            "conditions": [],
+            "exceptions": [],
+            "source_quote": "Rioting refers to participation in, inciting, or organising a disorderly group action, including a demonstration that involves or is likely to involve violence, destruction of property, disruption of University operations or public order, or poses a grave risk to the safety and security of persons or property.",
+            "source_page": 12,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "rioting",
+                "riot",
+                "riotous behaviour",
+                "violent demonstration",
+                "violent protest",
+                "group disorder",
+                "public disorder",
+                "mob violence",
+                "inciting a riot",
+                "organising a riot",
+                "organizing a riot",
+                "group violence"
+            ],
+            "example_queries": [
+                "What happens if students organise a violent protest?",
+                "Is participating in a riot misconduct?",
+                "Can encouraging a riot lead to disciplinary action?",
+                "What counts as rioting under the code?",
+                "Is organising violent group disorder a violation?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_012",
+            "rule_type": "conduct",
+            "category": "Respect, Safety and Personal Conduct",
+            "rule_name": "Indecent or Obscene Behaviour",
+            "section_number": "3.2.8",
+            "description": "Use of vulgar, abusive, humiliating, or offensive language; obscene gestures or displays; or creation, display, distribution, or publication of obscene or offensive material inappropriate to the University community.",
+            "possible_measures": [
+                "Community service",
+                "Written statement and warning letter",
+                "Student undertaking and withdrawal of certain privileges",
+                "Parent/guardian undertaking and suspension from the College for a year",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Referral to the Royal Bhutan Police and/or expulsion from the College"
+            ],
+            "conditions": [],
+            "exceptions": [],
+            "source_quote": "Indecent or obscene behaviour refers to the use of vulgar, abusive, humiliating, or offensive language; obscene gestures or displays; or the creation, display, distribution, or publication of obscene words, images, drawings, graffiti, or other material that is inappropriate or offensive to the University community.",
+            "source_page": 12,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "indecent behaviour",
+                "obscene behaviour",
+                "obscene language",
+                "vulgar language",
+                "abusive language",
+                "offensive gestures",
+                "obscene gestures",
+                "offensive images",
+                "obscene material",
+                "inappropriate drawings",
+                "offensive graffiti",
+                "indecent conduct"
+            ],
+            "example_queries": [
+                "Is using abusive language against students misconduct?",
+                "What happens if I share obscene pictures?",
+                "Are offensive gestures prohibited?",
+                "Can posting obscene material violate the code?",
+                "What is considered indecent behaviour?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_013",
+            "rule_type": "conduct",
+            "category": "Respect, Safety and Personal Conduct",
+            "rule_name": "Professional Boundary Violation",
+            "section_number": "3.2.9",
+            "description": "Student conduct breaching or undermining appropriate professional boundaries with faculty or staff, including inappropriate communications/interactions, sexual or intimate conduct, undue influence, exploitation, or actual/perceived conflict of interest.",
+            "possible_measures": [
+                "Student written statement",
+                "Student and parent/guardian undertaking",
+                "Suspension from the College for a year",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Expulsion from the College"
+            ],
+            "conditions": [],
+            "exceptions": [],
+            "source_quote": "Professional boundary violation refers to conduct by a student that breaches or undermines appropriate professional boundaries in interactions with faculty or staff, including inappropriate communication or interactions, sexual or intimate conduct, undue influence, exploitation, or conduct that creates an actual or perceived conflict of interest.",
+            "source_page": 12,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "professional boundary violation",
+                "boundary violation",
+                "inappropriate relationship with staff",
+                "inappropriate relationship with teacher",
+                "student teacher relationship",
+                "staff student relationship",
+                "undue influence",
+                "exploitation",
+                "conflict of interest",
+                "inappropriate communication with faculty",
+                "inappropriate interaction with staff"
+            ],
+            "example_queries": [
+                "Can a student have an inappropriate relationship with a staff member?",
+                "What is a professional boundary violation?",
+                "Is exploiting a relationship with a teacher misconduct?",
+                "What if a student uses undue influence with faculty?",
+                "Can inappropriate communication with staff violate the code?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_014",
+            "rule_type": "conduct",
+            "category": "Alcohol, Tobacco and Drugs",
+            "rule_name": "Possession/Use of Drugs or Substance",
+            "section_number": "3.3.1",
+            "description": "Drug or substance possession or use is defined and dealt with under the RUB Student Drug Policy 2026 and other applicable laws.",
+            "possible_measures": [],
+            "conditions": [
+                "Apply the RUB Student Drug Policy 2026 and applicable laws; details are not specified in this subsection."
+            ],
+            "exceptions": [],
+            "source_quote": "Possession or use of drugs or substances shall be defined and dealt with in accordance with the RUB Student Drug Policy 2026 and other applicable laws.",
+            "source_page": 12,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "drugs",
+                "drug possession",
+                "drug use",
+                "substance use",
+                "illegal drugs",
+                "controlled substances",
+                "narcotics",
+                "drug abuse",
+                "possessing drugs",
+                "using drugs",
+                "drug policy",
+                "substance-related misconduct"
+            ],
+            "example_queries": [
+                "What happens if a student possesses illegal drugs?",
+                "Is using drugs considered student misconduct?",
+                "What policy applies to drug-related misconduct?",
+                "Can students possess controlled substances?",
+                "What does the code say about drug possession?",
+                "Which policy handles drug-related cases?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_015",
+            "rule_type": "conduct",
+            "category": "Alcohol, Tobacco and Drugs",
+            "rule_name": "Possession or Use of Tobacco and Tobacco Products",
+            "section_number": "3.3.2",
+            "description": "Possession, use, distribution, or supply of tobacco or tobacco products in violation of applicable laws and regulations.",
+            "possible_measures": [
+                "Seizure of tobacco/tobacco products, student written statement, and community service",
+                "Warning letter",
+                "Withdrawal of certain privileges and student undertaking",
+                "Parent/guardian undertaking",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Suspension from the College for a year"
+            ],
+            "conditions": [
+                "The possession, use, distribution, or supply must violate applicable laws and regulations."
+            ],
+            "exceptions": [],
+            "source_quote": "Possession or use of tobacco and tobacco products refers to the possession, use, or distribution or supply of tobacco and tobacco products in violation of applicable laws and regulations.",
+            "source_page": 13,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "tobacco",
+                "tobacco products",
+                "smoking",
+                "cigarette",
+                "cigarettes",
+                "cigarette possession",
+                "tobacco possession",
+                "using tobacco",
+                "chewing tobacco",
+                "tobacco distribution",
+                "supplying tobacco",
+                "smoking on campus"
+            ],
+            "example_queries": [
+                "Can students smoke on campus?",
+                "What happens if I possess cigarettes?",
+                "Is chewing tobacco prohibited?",
+                "Can students distribute tobacco products?",
+                "What does the code say about smoking?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_016",
+            "rule_type": "conduct",
+            "category": "Alcohol, Tobacco and Drugs",
+            "rule_name": "Possession or Consumption of Alcohol",
+            "section_number": "3.3.3",
+            "description": "Possession, consumption, distribution, or sharing of alcoholic beverages in violation of applicable laws or regulations. Alcohol use does not itself excuse or mitigate related misconduct and may aggravate serious misconduct.",
+            "possible_measures": [
+                "Seizure of alcoholic beverage, student written statement, warning letter, and community service",
+                "Student undertaking and withdrawal of certain privileges",
+                "Parent/guardian undertaking",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Suspension for a year or expulsion for serious or repeated misconduct of the described kinds while under the influence"
+            ],
+            "conditions": [
+                "Violation of applicable laws or regulations.",
+                "The Code states alcohol use is not by itself an excuse or mitigating factor; where it contributes to or is associated with serious misconduct it may be aggravating."
+            ],
+            "exceptions": [],
+            "source_quote": "Possession or consumption of alcohol refers to the possession, consumption, distribution or sharing of alcoholic beverages in violation of applicable laws or regulations. Alcohol use shall not, in itself, excuse or mitigate a student’s responsibility for misconduct committed while under the influence of alcohol. Where alcohol use contributes to or is associated with serious misconduct, it may be considered an aggravating circumstance in determining the appropriate disciplinary measure.",
+            "source_page": 13,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "alcohol",
+                "drinking alcohol",
+                "drunk",
+                "drunken behaviour",
+                "alcohol possession",
+                "alcohol consumption",
+                "bringing alcohol",
+                "sharing alcohol",
+                "distributing alcohol",
+                "being under the influence",
+                "intoxication",
+                "drinking on campus"
+            ],
+            "example_queries": [
+                "Can students drink alcohol on campus?",
+                "What happens if I bring alcohol to college?",
+                "Is drinking alcohol considered misconduct?",
+                "What if a student gets drunk and causes trouble?",
+                "Can alcohol aggravate disciplinary misconduct?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_017",
+            "rule_type": "conduct",
+            "category": "Property, Facilities and Resources",
+            "rule_name": "Stealing",
+            "section_number": "3.4.1",
+            "description": "Intentionally taking, obtaining, or retaining property belonging to another person or the University without lawful authority or the owner's consent.",
+            "possible_measures": [
+                "Return of stolen property or restitution of its value and community service",
+                "Written statement and warning letter",
+                "Student undertaking and withdrawal of certain privileges",
+                "Parent/guardian undertaking",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Referral to the Royal Bhutan Police and/or suspension from the College for a year"
+            ],
+            "conditions": [
+                "Intentional conduct; no lawful authority or owner consent."
+            ],
+            "exceptions": [],
+            "source_quote": "Stealing refers to intentionally taking, obtaining, or retaining property belonging to another person or the University without lawful authority or the consent of the owner.",
+            "source_page": 13,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "stealing",
+                "theft",
+                "stole",
+                "stolen",
+                "steal",
+                "taking someone's property",
+                "taking university property",
+                "taking college property",
+                "property theft",
+                "missing belongings",
+                "unauthorized taking",
+                "unauthorised taking",
+                "keeping stolen property"
+            ],
+            "example_queries": [
+                "What happens if I steal another student's belongings?",
+                "Is taking university property without permission theft?",
+                "Can keeping someone's lost property be misconduct?",
+                "What if someone steals my belongings?",
+                "Is stealing considered a disciplinary violation?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_018",
+            "rule_type": "conduct",
+            "category": "Property, Facilities and Resources",
+            "rule_name": "Damage to University property",
+            "section_number": "3.4.2",
+            "description": "Intentional, reckless, or negligent destruction of, or damage to, University property, facilities, equipment, or other assets.",
+            "possible_measures": [
+                "Student written statement, restitution/compensation, and community service",
+                "Student undertaking and withdrawal of certain privileges",
+                "Parent/guardian undertaking",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Suspension from the College for a year",
+                "Expulsion from the College"
+            ],
+            "conditions": [
+                "Intentional, reckless, or negligent conduct."
+            ],
+            "exceptions": [],
+            "source_quote": "Damage to University property refers to the intentional, reckless, or negligent destruction of, or damage to, University property, facilities, equipment, or other assets.",
+            "source_page": 14,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "property damage",
+                "damaging university property",
+                "damaging college property",
+                "vandalism",
+                "destroying property",
+                "breaking university equipment",
+                "damaging facilities",
+                "reckless damage",
+                "negligent damage",
+                "damaged furniture",
+                "destruction of university property"
+            ],
+            "example_queries": [
+                "What happens if I damage college property?",
+                "Is breaking university equipment misconduct?",
+                "Can vandalising campus buildings lead to suspension?",
+                "What if I accidentally damage university facilities?",
+                "Do students have to compensate for damaged property?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_019",
+            "rule_type": "conduct",
+            "category": "Property, Facilities and Resources",
+            "rule_name": "Unauthorised Access to or Use of University Facilities/Services",
+            "section_number": "3.4.3",
+            "description": "Accessing or using University property, facilities, equipment, systems, or services without proper authorisation or in breach of applicable University requirements, policies, or procedures.",
+            "possible_measures": [
+                "Community service",
+                "Written statement and warning letter",
+                "Withdrawal or restriction of access to specified facilities/services for a prescribed period",
+                "Student undertaking",
+                "Parent/guardian undertaking",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Suspension from the College for a year"
+            ],
+            "conditions": [],
+            "exceptions": [],
+            "source_quote": "Unauthorised access to or use of University facilities or services refers to accessing or using University property, facilities, equipment, systems, or services without proper authorisation or in breach of applicable University requirements, policies, or procedures.",
+            "source_page": 14,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "unauthorized access",
+                "unauthorised access",
+                "unauthorized use",
+                "unauthorised use",
+                "accessing restricted areas",
+                "using facilities without permission",
+                "misuse of university facilities",
+                "misuse of college facilities",
+                "unauthorized system access",
+                "unauthorised system access",
+                "using university services without permission",
+                "restricted facility access"
+            ],
+            "example_queries": [
+                "Can I enter a restricted university area without permission?",
+                "Is using college facilities without authorisation misconduct?",
+                "What happens if I access a restricted computer system?",
+                "Can students use university equipment without approval?",
+                "What counts as unauthorised access?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_020",
+            "rule_type": "conduct",
+            "category": "Property, Facilities and Resources",
+            "rule_name": "Unauthorised Collection of Funds",
+            "section_number": "3.4.4",
+            "description": "Collecting, soliciting, or receiving money from students, staff, or others on behalf of, or in connection with, the University or College without required approval or authorisation.",
+            "possible_measures": [
+                "Refund of collected money, student written statement, warning letter, and community service",
+                "Student and parent/guardian undertaking",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Suspension from the College for a specified period"
+            ],
+            "conditions": [
+                "Collection is on behalf of or connected with the University/College and lacks required approval or authorisation."
+            ],
+            "exceptions": [],
+            "source_quote": "Unauthorised collection of funds refers to collecting, soliciting, or receiving money from students, staff, or other persons on behalf of, or in connection with, the University or College without the required approval or authorisation.",
+            "source_page": 14,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "unauthorized collection of funds",
+                "unauthorised collection of funds",
+                "collecting money without permission",
+                "unauthorized fundraising",
+                "unauthorised fundraising",
+                "unapproved fundraising",
+                "soliciting money without approval",
+                "collecting student money",
+                "taking money on behalf of college",
+                "unapproved collection"
+            ],
+            "example_queries": [
+                "Can I collect money from students without approval?",
+                "Is unauthorised fundraising misconduct?",
+                "What happens if I organise an unapproved collection?",
+                "Can students collect funds on behalf of the college?",
+                "What if I solicit money without university permission?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_021",
+            "rule_type": "conduct",
+            "category": "Compliance and Institutional Order",
+            "rule_name": "Refusal to identify and comply",
+            "section_number": "3.5.1",
+            "description": "Wilfully refusing to provide accurate identification when lawfully required, or to comply with a lawful and reasonable order, direction, or summons from an authorised University official acting in official duties.",
+            "possible_measures": [
+                "Verbal warning",
+                "Community service",
+                "Written statement and warning letter",
+                "Student undertaking",
+                "Parent/guardian undertaking",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Suspension from the College for a year"
+            ],
+            "conditions": [
+                "The identification request is lawful, or the order/direction/summons is lawful and reasonable and issued by an authorised official in official duties."
+            ],
+            "exceptions": [],
+            "source_quote": "Refusal to identify and comply refers to wilfully refusing to provide accurate identification when lawfully required, or to comply with a lawful and reasonable order, direction, or summons issued by an authorised University official in the discharge of official duties.",
+            "source_page": 14,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "refusal to identify",
+                "refusing to identify",
+                "refusing to show id",
+                "not showing identification",
+                "refusing an official order",
+                "disobeying an authorised official",
+                "disobeying an authorized official",
+                "refusing lawful instructions",
+                "non-compliance with official directions",
+                "ignoring an official summons",
+                "refusing to comply"
+            ],
+            "example_queries": [
+                "What happens if I refuse to show my student identification?",
+                "Can I refuse a lawful instruction from a university official?",
+                "Is disobeying an authorised official misconduct?",
+                "What if I ignore an official summons?",
+                "Can refusing to comply with university directions violate the code?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_022",
+            "rule_type": "conduct",
+            "category": "Compliance and Institutional Order",
+            "rule_name": "Obstructive conduct",
+            "section_number": "3.5.2",
+            "description": "Intentionally or knowingly interfering with or attempting to obstruct normal University functions, operations, investigations, or proceedings, or interfering with others' rights, safety, or legitimate activities.",
+            "possible_measures": [
+                "Community service",
+                "Written statement and warning letter",
+                "Student undertaking",
+                "Parent/guardian undertaking",
+                "Withdrawal of certain privileges",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Referral to the Royal Bhutan Police and suspension from the College for a year"
+            ],
+            "conditions": [],
+            "exceptions": [],
+            "source_quote": "Obstructive conduct refers to intentionally or knowingly interfering or attempting to obstruct the normal functions, operations, investigations, or proceedings of the University, or interfering with the rights, safety, or legitimate activities of others.",
+            "source_page": 15,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "obstructive conduct",
+                "obstruction",
+                "obstructing university activities",
+                "interfering with an investigation",
+                "blocking an investigation",
+                "interfering with university operations",
+                "disrupting proceedings",
+                "obstructing officials",
+                "interfering with others' rights",
+                "preventing university functions",
+                "hindering an investigation"
+            ],
+            "example_queries": [
+                "What happens if I obstruct a university investigation?",
+                "Is interfering with disciplinary proceedings misconduct?",
+                "Can students disrupt university operations?",
+                "What if someone prevents an investigation from proceeding?",
+                "Is obstructing university officials a violation?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_023",
+            "rule_type": "conduct",
+            "category": "Compliance and Institutional Order",
+            "rule_name": "Trespassing",
+            "section_number": "3.5.3",
+            "description": "Unauthorised entry into or remaining on University/College premises or restricted areas without permission or lawful authority, including remaining after being directed to leave.",
+            "possible_measures": [
+                "Community service",
+                "Written statement and warning letter",
+                "Student undertaking",
+                "Withdrawal of certain privileges",
+                "Parent/guardian undertaking",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Suspension from the College for a specified period"
+            ],
+            "conditions": [],
+            "exceptions": [],
+            "source_quote": "Trespassing refers to unauthorized entry into or remaining on any University or College premises, including hostels, offices, residences, rooms, buildings, or other restricted areas, without permission or lawful authority, including entering or remaining after being directed to leave.",
+            "source_page": 15,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "trespassing",
+                "trespass",
+                "unauthorized entry",
+                "unauthorised entry",
+                "entering restricted areas",
+                "entering without permission",
+                "remaining without permission",
+                "refusing to leave premises",
+                "entering hostel without permission",
+                "restricted area entry",
+                "unauthorized presence on campus",
+                "unauthorised presence on campus"
+            ],
+            "example_queries": [
+                "Can I enter a restricted area without permission?",
+                "Is entering a hostel without authorisation misconduct?",
+                "What happens if I refuse to leave college premises?",
+                "Can entering university property without permission lead to punishment?",
+                "What is considered trespassing?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_024",
+            "rule_type": "conduct",
+            "category": "Compliance and Institutional Order",
+            "rule_name": "Disruptive Conduct",
+            "section_number": "3.5.4",
+            "description": "Behaviour disrupting or interfering with learning, teaching, or other academic activities, or failure to comply with requirements governing those activities; includes settings where students engage in academic work, programme requirements, or related activities.",
+            "possible_measures": [
+                "Verbal warning",
+                "Community service",
+                "Student written statement and undertaking",
+                "Parent/guardian undertaking",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Suspension from the College for a specified period"
+            ],
+            "conditions": [],
+            "exceptions": [],
+            "source_quote": "Disruptive conduct refers to behaviour that disrupts or interferes with learning, teaching or other academic activities, or failure to comply with requirements governing such activities. This includes conduct occurring in any setting where students are engaged in academic work, programme requirements, or related academic activities.",
+            "source_page": 15,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "disruptive conduct",
+                "classroom disruption",
+                "disrupting class",
+                "disturbing a lecture",
+                "interrupting teaching",
+                "disrupting learning",
+                "disturbing academic activities",
+                "misbehaving in class",
+                "disrupting an examination",
+                "interfering with academic activities",
+                "not following classroom requirements"
+            ],
+            "example_queries": [
+                "What happens if I disturb a lecture?",
+                "Is interrupting a class considered misconduct?",
+                "Can students disrupt teaching activities?",
+                "What if I disturb other students during learning?",
+                "Is disruptive classroom behaviour prohibited?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_025",
+            "rule_type": "conduct",
+            "category": "Compliance and Institutional Order",
+            "rule_name": "Failure to Report Misconduct",
+            "section_number": "3.5.5",
+            "description": "Knowingly failing to report or deliberately concealing serious or ongoing misconduct, University policy violations, or conduct posing risk to safety, wellbeing, property, or reputation of the University or a community member.",
+            "possible_measures": [
+                "Community service",
+                "Written statement and warning letter",
+                "Withholding or deferral of an academic award or other recognition, where applicable"
+            ],
+            "conditions": [
+                "The conduct concerns serious or ongoing misconduct, a policy violation, or a risk to safety, wellbeing, property, or reputation."
+            ],
+            "exceptions": [],
+            "source_quote": "Failure to report misconduct refers to knowingly failing to report or deliberately concealing, serious or ongoing misconduct, a violation of University policies, or conduct that poses risk to the safety, wellbeing, property, or reputation of the University or any member of the University community.",
+            "source_page": 16,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "failure to report misconduct",
+                "not reporting misconduct",
+                "hiding misconduct",
+                "concealing misconduct",
+                "covering up misconduct",
+                "failing to report serious misconduct",
+                "not reporting a policy violation",
+                "hiding a safety risk",
+                "concealing a university violation",
+                "withholding information about misconduct"
+            ],
+            "example_queries": [
+                "Can I get in trouble for hiding serious misconduct?",
+                "What happens if I know about misconduct but do not report it?",
+                "Is covering up a serious violation misconduct?",
+                "Do students have to report serious misconduct?",
+                "What if I deliberately conceal a safety risk?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_026",
+            "rule_type": "conduct",
+            "category": "Digital and Technology-Related Misconduct",
+            "rule_name": "Misuse of social media",
+            "section_number": "3.6.1",
+            "description": "Using social media or other electronic platforms to create, post, publish, transmit, distribute, or share unlawful, abusive, threatening, harassing, defamatory, obscene, discriminatory, otherwise harmful content, or content causing/likely to cause harm, distress, intimidation, reputational damage, or disruption to the University or a community member.",
+            "possible_measures": [
+                "Community service",
+                "Written statement and warning letter",
+                "Withdrawal of certain privileges",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Student and parent/guardian undertaking and suspension from the College for a year",
+                "Referral to the Royal Bhutan Police and/or expulsion from the College"
+            ],
+            "conditions": [],
+            "exceptions": [],
+            "source_quote": "Misuse of social media refers to the use of social media or other electronic platforms to create, post, publish, transmit, distribute, or share content that is unlawful, abusive, threatening, harassing, defamatory, obscene, discriminatory, or otherwise harmful, or that causes or is likely to cause harm, distress, intimidation, reputational damage, or disruption to the University or any member of the University community.",
+            "source_page": 16,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "social media misuse",
+                "misuse of social media",
+                "online harassment",
+                "abusive social media posts",
+                "threatening posts",
+                "defamatory posts",
+                "cyber harassment",
+                "harmful online content",
+                "posting offensive content",
+                "sharing harmful content",
+                "online threats",
+                "social media bullying",
+                "damaging someone's reputation online"
+            ],
+            "example_queries": [
+                "Can I be punished for offensive social media posts?",
+                "Is cyber harassment considered misconduct?",
+                "What happens if I publish defamatory content about another student?",
+                "Can threatening someone online violate the code?",
+                "Is sharing harmful content on social media prohibited?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_027",
+            "rule_type": "conduct",
+            "category": "Digital and Technology-Related Misconduct",
+            "rule_name": "Misuse of Electronic Devices",
+            "section_number": "3.6.2",
+            "description": "Unauthorised or improper use of electronic devices (including phones, cameras, computers, or recording devices) to photograph, record, livestream, capture, reproduce, or share content in violation of rules, rights, privacy, dignity, or safety of an individual or the University.",
+            "possible_measures": [
+                "Community service",
+                "Written statement and warning letter",
+                "Confiscation of the device for a specified period",
+                "Withdrawal of certain privileges",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Student and parent/guardian undertaking and suspension from the College for a year",
+                "Referral to the Royal Bhutan Police and/or expulsion from the College"
+            ],
+            "conditions": [],
+            "exceptions": [],
+            "source_quote": "Misuse of electronic devices refers to the unauthorised or improper use of electronic devices, including mobile phones, cameras, computers, or other recording devices, to photograph, record, livestream, capture, reproduce, or share images, audio, video, or other content in violation of rules, rights, privacy, dignity, or safety of an individual or the University.",
+            "source_page": 16,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "electronic device misuse",
+                "misuse of electronic devices",
+                "unauthorized recording",
+                "unauthorised recording",
+                "secret recording",
+                "recording someone without permission",
+                "taking photos without consent",
+                "unauthorized photography",
+                "unauthorised photography",
+                "livestreaming without permission",
+                "sharing private recordings",
+                "misusing a phone",
+                "camera misuse",
+                "privacy violation by recording"
+            ],
+            "example_queries": [
+                "Can I secretly record another student?",
+                "Is taking someone's photo without permission misconduct?",
+                "What happens if I record a lecture without authorisation?",
+                "Can I share private recordings of another person?",
+                "Is misusing a mobile phone a disciplinary violation?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_028",
+            "rule_type": "conduct",
+            "category": "Digital and Technology-Related Misconduct",
+            "rule_name": "Attempting, Aiding and Abetting",
+            "section_number": "3.6.3",
+            "description": "Intentionally attempting to commit, assisting, facilitating, encouraging, directing, or knowingly participating in misconduct. Student responsibility is assessed with regard to the nature, extent, and significance of involvement and contribution.",
+            "possible_measures": [
+                "Verbal warning",
+                "Community service",
+                "Student written statement and warning letter",
+                "Student undertaking and withdrawal of certain privileges",
+                "Parent/guardian undertaking",
+                "Withholding or deferral of an academic award or other recognition, where applicable",
+                "Suspension from the College for a specified period"
+            ],
+            "conditions": [
+                "Responsibility is determined by the nature, extent, and significance of the student's involvement and contribution."
+            ],
+            "exceptions": [],
+            "source_quote": "Attempting, aiding and abetting refers to intentionally attempting to commit, assist, facilitate, encourage, direct, or knowingly participate in an act of misconduct. The responsibility of the student shall be determined having regard to the nature, extent, and significance of the student’s involvement and contribution to the misconduct.",
+            "source_page": 17,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "aiding and abetting",
+                "helping misconduct",
+                "assisting misconduct",
+                "encouraging misconduct",
+                "facilitating misconduct",
+                "attempted misconduct",
+                "attempting to commit misconduct",
+                "being an accomplice",
+                "participating in another student's misconduct",
+                "planning misconduct",
+                "directing misconduct",
+                "supporting a violation"
+            ],
+            "example_queries": [
+                "Can I get in trouble for helping another student commit misconduct?",
+                "Is encouraging someone to break university rules misconduct?",
+                "What happens if I assist another student in cheating?",
+                "Can attempting misconduct also be a violation?",
+                "What does aiding and abetting mean under the code?"
+            ]
+        },
+        {
+            "rule_id": "CONDUCT_029",
+            "rule_type": "conduct",
+            "category": "Conduct Subject to Criminal Proceedings",
+            "rule_name": "Conduct Subject to Criminal Proceedings",
+            "section_number": "3.7",
+            "description": "The University may address under the Code conduct also related to arrest, charge, investigation, or criminal proceedings, in accordance with applicable laws and Code procedures. Criminal process alone is not a finding of misconduct; the University may assess conduct independently and may refer matters to competent authorities.",
+            "possible_measures": [],
+            "conditions": [
+                "Applicable laws and Code procedures apply.",
+                "The University independently assesses whether conduct falls within the Code."
+            ],
+            "exceptions": [
+                "Arrest, apprehension, investigation, charge, or criminal proceedings do not, in themselves, constitute a finding of misconduct under the Code."
+            ],
+            "source_quote": "Arrest, apprehension, investigation, charge, or criminal proceedings shall not, in themselves, constitute a finding of misconduct under this Code. The University may independently assess the student's conduct where it falls within the scope of this Code, irrespective of whether criminal proceedings have been initiated, are ongoing, or have concluded.",
+            "source_page": 17,
+            "verification_status": "verified",
+            "retrieval_keywords": [
+                "criminal proceedings",
+                "criminal case",
+                "arrest",
+                "apprehension",
+                "police investigation",
+                "charged with an offence",
+                "criminal charge",
+                "ongoing court case",
+                "criminal investigation",
+                "court proceedings",
+                "university disciplinary process and criminal case",
+                "criminal allegation",
+                "independent university assessment"
+            ],
+            "example_queries": [
+                "Does being arrested automatically mean I committed university misconduct?",
+                "Can the university investigate a student facing criminal charges?",
+                "What happens if a student is involved in a police investigation?",
+                "Can university disciplinary proceedings continue during a criminal case?",
+                "Does an ongoing court case prove student misconduct?"
+            ]
+        }
+    ]
+}

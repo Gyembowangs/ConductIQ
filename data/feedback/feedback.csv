@@ -1,0 +1,54 @@
+feedback_id,timestamp,conversation_id,question,agent_response,rating,issue_category,comments,review_status
+9f3d2bfa-2ab8-4d26-be73-3e8928e0035c,2026-11-13T15:08:17.378419+00:00,conductiq_test_001,What is academic dishonesty?,Academic dishonesty is addressed under section 3.1.1.,negative,incomplete_answer,The answer needs more explanation.,review_required
+60476a7e-bec7-419f-b137-cbc76c438dfb,2026-11-13T15:54:00.357384+00:00,38d50a0c-5788-406b-afcc-582dacd2c635,what are the things which can lead to detention,"I could not verify sufficient supporting evidence in the available RUB Student Code of Conduct 2026 knowledge base. I do not want to guess or provide an unsupported interpretation.
+
+Please contact your Student Services Officer or the appropriate College authority for clarification.",positive,none,,recorded
+9c863f3a-c6d4-420a-b694-aa2acc47b759,2026-11-13T15:56:23.133884+00:00,38d50a0c-5788-406b-afcc-582dacd2c635,what are the misconduct of fighting ,"Fighting misconduct in the RUB Student Code of Conduct 2026 is defined as any physical or verbal confrontation involving physical violence, attempted use of force, threats, intimidation, abusive or aggressive language, or other hostile behavior that threatens the safety, dignity, or wellbeing of others or disrupts the peaceful environment of the University community.
+
+Possible disciplinary measures for fighting include:
+- Student written statement, community service, and warning letter
+- Student/parent/guardian undertaking and withdrawal of certain privileges
+- Suspension from the College for a year
+- Withholding or deferral of an academic award or other recognition, where applicable
+- Referral to the Royal Bhutan Police and/or expulsion from the College
+
+Source: RUB Student Code of Conduct 2026,
+Section 3.2.5, printed page 11.",positive,none,,recorded
+712d85a8-5ea4-4665-996e-bb745c200a53,2026-11-13T15:58:44.384395+00:00,38d50a0c-5788-406b-afcc-582dacd2c635,What is academic dishonesty under the RUB Student Code of Conduct 2026?,"Academic dishonesty under the RUB Student Code of Conduct 2026 is defined and dealt with according to the provisions in the Wheel of Academic Law and other applicable University policies and regulations. The Code itself refers students to these documents for the specific definitions and handling procedures related to academic dishonesty.
+
+Source: RUB Student Code of Conduct 2026,
+Section 3.1.1, printed page 9.",positive,none,,recorded
+b5fe8a79-bb7c-408d-9872-66d0db0812df,2026-11-13T18:16:20.699364+00:00,7edaea16-52f6-4e32-9712-97cbbb41c042,How many working days does the UDC Member Secretary have to communicate the decision?,"The University Disciplinary Committee (UDC) must communicate its decision in writing within 5 working days. The timeframe is measured from the udc decision.
+
+Source: RUB Student Code of Conduct 2026, Section 5.2.3, printed page 21.",positive,none,,recorded
+60cb24fb-1437-441c-8b8a-60e2650ff0a1,2026-11-13T19:42:02.021933+00:00,c3e10a8e-fe98-4390-8e9f-1b0399ad6f41,which college am i studying ,"I could not verify sufficient supporting evidence in the available RUB Student Code of Conduct 2026 knowledge base. I do not want to guess or provide an unsupported interpretation.
+
+Please contact your Student Services Officer or the appropriate College authority for clarification.",positive,none,,recorded
+9516b42c-a651-4028-b23f-522e7a781ecd,2026-11-13T20:05:41.774373+00:00,74729dd7-a924-4d87-9d40-a0adae1d6897,what are the misconducted ,"I could not verify sufficient supporting evidence in the available RUB Student Code of Conduct 2026 knowledge base. I do not want to guess or provide an unsupported interpretation.
+
+Please contact your Student Services Officer or the appropriate College authority for clarification.",negative,other,,review_required
+02049c52-0ca7-4b18-8d85-c4d891ce26d6,2026-11-13T20:07:07.798067+00:00,74729dd7-a924-4d87-9d40-a0adae1d6897,if i cheat on exam what are the consequences,"If you cheat on an exam at the Royal University of Bhutan, it is considered academic dishonesty. Academic dishonesty is defined and handled according to the Wheel of Academic Law and other applicable University policies and regulations. The Student Code of Conduct 2026 itself does not specify exact disciplinary measures for cheating but refers to these other documents for detailed handling.
+
+Additionally, if you assist or encourage cheating (aiding and abetting), possible disciplinary measures may include verbal warnings, community service, written warnings, withdrawal of privileges, suspension from the College for a specified period, and withholding or deferral of academic awards, depending on the nature and extent of involvement.
+
+For precise consequences, you would need to refer to the Wheel of Academic Law and related policies.
+
+Source: RUB Student Code of Conduct 2026, Sections 3.1.1 and 3.6.3, printed pages 9 and 17.
+
+Source: RUB Student Code of Conduct 2026, Section 3.1.1, printed page 9.",positive,none,,recorded
+ae295532-2fb5-4297-b30c-b21de31999c4,2026-11-13T20:08:41.209877+00:00,74729dd7-a924-4d87-9d40-a0adae1d6897,how can i appeal for leave,"The Royal University of Bhutan Student Code of Conduct 2026 does not specifically describe a procedure for appealing for leave within the retrieved disciplinary and appeal procedures. The available procedures mainly cover appeals related to disciplinary decisions.
+
+For appealing a disciplinary decision, a student must submit a written appeal to the University Disciplinary Committee (UDC) Member Secretary within 10 working days of receiving the College Disciplinary Committee (CDC) decision. The appeal must include the student's details, grounds for appeal, and supporting evidence. The UDC then reviews the appeal and communicates its decision in writing.
+
+If you are referring to appealing for academic or other types of leave, this process is likely governed by separate University policies or administrative offices, not covered in the Student Code of Conduct's disciplinary appeal procedures.
+
+I recommend contacting your College's Student Services Officer or the Registrar's Office for the official process to appeal or apply for leave.
+
+Source: RUB Student Code of Conduct 2026, Sections 5.1.3.3.8-5.1.3.3.10, 5.2-5.2.2.2, 5.2.2.4-5.2.2.5, printed pages 20-21.
+
+Source: RUB Student Code of Conduct 2026, Section 5.2.2.4-5.2.2.5, printed page 20.",positive,none,,recorded
+474ebf45-c475-4641-8f3b-4b6564ab1ad0,2026-11-13T20:14:29.016646+00:00,bdf63a0a-0947-4386-86e3-c0487b56e9ff,what is academic dishonesty,"Academic dishonesty at the Royal University of Bhutan is defined and dealt with according to the Wheel of Academic Law and other applicable University policies and regulations. The Student Code of Conduct 2026 itself does not provide a detailed definition but refers to these other documents for the specific definition and handling.
+
+Examples of academic dishonesty include plagiarism, cheating, copying assignments, unauthorized collaboration, exam malpractice, and other dishonest academic work.
+
+Source: RUB Student Code of Conduct 2026, Section 3.1.1, printed page 9.",positive,none,,recorded

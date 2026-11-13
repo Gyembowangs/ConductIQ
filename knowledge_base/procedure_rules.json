@@ -1,0 +1,411 @@
+{
+    "document": "RUB Student Code of Conduct 2026",
+    "source_file": "Final-Student-Code-of-Conduct-2026.pdf",
+    "chapter": "Chapter V: Procedures",
+    "notes": [
+        "Procedure keywords are retrieval metadata, not official policy text.",
+        "Section numbers and printed page numbers refer to the source document.",
+        "The LLM must use the procedure descriptions and verify relevant details against the official Code.",
+        "Working-day deadlines must not be converted into calendar days without an applicable rule.",
+        "Structured deadline records provide direct access to procedural time limits.",
+        "All procedural information must be grounded in the official Student Code of Conduct."
+    ],
+    "procedures": [
+        {
+            "procedure_id": "PROC_001",
+            "procedure_name": "Purpose and principles of disciplinary procedures",
+            "section_number": "Chapter V",
+            "description": "Allegations of misconduct must be addressed fairly, consistently, promptly and impartially, while respecting the rights, dignity and confidentiality of everyone involved.",
+            "procedure_keywords": [
+                "fair procedure",
+                "fairness",
+                "impartiality",
+                "confidentiality",
+                "disciplinary process",
+                "student rights"
+            ],
+            "source_page": 19,
+            "example_queries": [
+                "What principles must be followed during disciplinary proceedings?",
+                "Will my disciplinary case be handled fairly?",
+                "Does the university protect student confidentiality?",
+                "Can a disciplinary process be biased?",
+                "What rights must be respected during a misconduct investigation?"
+            ]
+        },
+        {
+            "procedure_id": "PROC_002",
+            "procedure_name": "College Disciplinary Committee",
+            "section_number": "5.1",
+            "description": "A College Disciplinary Committee (CDC) shall exist in each College to consider and determine cases of non-academic student misconduct in accordance with the Code.",
+            "procedure_keywords": [
+                "college disciplinary committee",
+                "CDC",
+                "disciplinary committee",
+                "non academic misconduct",
+                "who handles misconduct",
+                "college committee"
+            ],
+            "source_page": 19,
+            "example_queries": [
+                "Who handles student misconduct cases at college?",
+                "What is the College Disciplinary Committee?",
+                "What does CDC stand for?",
+                "Who investigates non-academic student misconduct?",
+                "Which committee handles disciplinary cases?"
+            ]
+        },
+        {
+            "procedure_id": "PROC_003",
+            "procedure_name": "CDC functions",
+            "section_number": "5.1.2",
+            "description": "The CDC considers allegations, assesses available evidence, determines whether misconduct has occurred and imposes appropriate corrective or disciplinary measures under the Code. It may seek legal consultation where necessary, inform parents or guardians and relevant employers where appropriate, and forward final disciplinary orders to the Registry.",
+            "procedure_keywords": [
+                "CDC functions",
+                "investigate misconduct",
+                "assess evidence",
+                "determine misconduct",
+                "disciplinary decision",
+                "legal consultation",
+                "final disciplinary order"
+            ],
+            "source_page": 19,
+            "example_queries": [
+                "What does the CDC do?",
+                "Who decides whether a student committed misconduct?",
+                "Who evaluates evidence in a disciplinary case?",
+                "Can the CDC impose disciplinary measures?",
+                "What are the responsibilities of the College Disciplinary Committee?"
+            ]
+        },
+        {
+            "procedure_id": "PROC_004",
+            "procedure_name": "Academic dishonesty reporting and handling",
+            "section_number": "5.1.3.1",
+            "description": "Cases of academic dishonesty shall be dealt with in accordance with the provisions of the Wheel of Academic Law.",
+            "procedure_keywords": [
+                "academic dishonesty",
+                "plagiarism procedure",
+                "cheating procedure",
+                "academic misconduct process",
+                "Wheel of Academic Law"
+            ],
+            "source_page": 19,
+            "example_queries": [
+                "How are plagiarism cases handled?",
+                "Who deals with examination cheating?",
+                "What procedure applies to academic dishonesty?",
+                "Does academic misconduct go through the CDC?",
+                "Which policy handles academic cheating?",
+                "What is the Wheel of Academic Law?"
+            ]
+        },
+        {
+            "procedure_id": "PROC_005",
+            "procedure_name": "Drug and substance-related misconduct",
+            "section_number": "5.1.3.2",
+            "description": "Cases of drug- and substance-related misconduct shall be dealt with in accordance with the provisions of the RUB Student Drug Policy.",
+            "procedure_keywords": [
+                "drug misconduct",
+                "substance misconduct",
+                "drug policy",
+                "RUB Student Drug Policy",
+                "drug related procedure"
+            ],
+            "source_page": 19,
+            "example_queries": [
+                "How are drug-related misconduct cases handled?",
+                "Which policy applies to student drug offences?",
+                "Who handles drug-related disciplinary cases?",
+                "What happens if a student is caught possessing drugs?",
+                "Does the university have a separate drug policy?"
+            ]
+        },
+        {
+            "procedure_id": "PROC_006",
+            "procedure_name": "Submitting a misconduct complaint",
+            "section_number": "5.1.3.3.1",
+            "description": "A complaint or allegation of misconduct made by a student, staff member or member of the public shall be submitted in writing to the Student Services Officer (SSO) of the respective College.",
+            "procedure_keywords": [
+                "submit complaint",
+                "report misconduct",
+                "written complaint",
+                "complaint submission",
+                "Student Services Officer",
+                "SSO",
+                "report a student"
+            ],
+            "source_page": 19,
+            "example_queries": [
+                "How do I report a student for misconduct?",
+                "Where should I submit a complaint against another student?",
+                "Can I report misconduct to the Student Services Officer?",
+                "Should a misconduct complaint be submitted in writing?",
+                "Who receives student misconduct complaints?",
+                "Can a member of the public report student misconduct?"
+            ]
+        },
+        {
+            "procedure_id": "PROC_007",
+            "procedure_name": "Complaint review and escalation",
+            "section_number": "5.1.3.3.2-5.1.3.3.4",
+            "description": "The SSO reviews the complaint and may address minor matters through suitable corrective measures within their authority. Cases that cannot be resolved at the SSO level are referred to the Dean of Student Affairs (DSA). Cases that cannot be resolved at the DSA level, or warrant formal disciplinary proceedings, are referred to the CDC.",
+            "procedure_keywords": [
+                "complaint review",
+                "SSO review",
+                "minor misconduct",
+                "Dean of Student Affairs",
+                "DSA",
+                "escalation",
+                "refer to CDC",
+                "complaint process"
+            ],
+            "source_page": 20,
+            "example_queries": [
+                "What happens after I submit a misconduct complaint?",
+                "Who reviews a student misconduct complaint?",
+                "What happens if the SSO cannot resolve my complaint?",
+                "When is a case referred to the Dean of Student Affairs?",
+                "Who handles serious disciplinary cases?",
+                "How does a complaint move from SSO to DSA and CDC?"
+            ]
+        },
+        {
+            "procedure_id": "PROC_008",
+            "procedure_name": "Student right to respond",
+            "section_number": "5.1.3.3.5",
+            "description": "A student against whom an allegation is made must be informed of the nature and details of the allegation and given an opportunity to respond and present relevant evidence before a disciplinary decision is made.",
+            "procedure_keywords": [
+                "right to respond",
+                "student response",
+                "defend myself",
+                "allegation details",
+                "present evidence",
+                "fair hearing",
+                "student rights"
+            ],
+            "source_page": 20,
+            "example_queries": [
+                "Do I have the right to defend myself against an allegation?",
+                "Can I explain my side before a disciplinary decision?",
+                "Should the university tell me what I am accused of?",
+                "Can I present evidence in my defence?",
+                "Can the university punish me without hearing my response?",
+                "What rights do I have if someone accuses me of misconduct?"
+            ]
+        },
+        {
+            "procedure_id": "PROC_009",
+            "procedure_name": "CDC decision timeframe and communication",
+            "section_number": "5.1.3.3.6-5.1.3.3.7",
+            "description": "The CDC shall convene and communicate its decision within 10 working days of receiving the case, where practical. If additional time is required, reasons for the delay must be recorded and the student informed of the revised timeframe. The decision, findings, reasons and any measures imposed must be communicated in writing to the student and, where applicable, the parent or guardian.",
+            "procedure_keywords": [
+                "CDC decision deadline",
+                "10 working days",
+                "decision timeframe",
+                "disciplinary decision letter",
+                "written decision",
+                "delay",
+                "decision communication"
+            ],
+            "source_page": 20,
+            "example_queries": [
+                "How long does the CDC take to make a decision?",
+                "When will I receive my disciplinary decision?",
+                "Does the CDC have 10 working days to decide a case?",
+                "What happens if the CDC needs more time?",
+                "Will the disciplinary decision be communicated in writing?",
+                "Will my parents be informed about the decision?"
+            ]
+        },
+        {
+            "procedure_id": "PROC_010",
+            "procedure_name": "Disciplinary records and appeal deadline",
+            "section_number": "5.1.3.3.8-5.1.3.3.10",
+            "description": "Records of complaints, findings and measures imposed must be maintained in accordance with University records management requirements. Where suspension or expulsion is imposed, the student shall be handed over to the parent or guardian. A student may appeal a CDC decision to the UDC within 10 working days of receiving the decision.",
+            "procedure_keywords": [
+                "disciplinary record",
+                "student personal file",
+                "appeal deadline",
+                "appeal within 10 working days",
+                "suspension handover",
+                "expulsion handover",
+                "appeal CDC decision"
+            ],
+            "source_page": 20,
+            "example_queries": [
+                "How many working days do I have to appeal a CDC decision?",
+                "When does the appeal deadline begin?",
+                "Can I appeal after receiving my disciplinary decision?",
+                "What happens to disciplinary records?",
+                "What happens if a student is suspended or expelled?",
+                "Can I appeal a college disciplinary decision to the UDC?"
+            ]
+        },
+        {
+            "procedure_id": "PROC_011",
+            "procedure_name": "University Disciplinary Committee and appeal submission",
+            "section_number": "5.2-5.2.2.2",
+            "description": "The UDC considers appeals against CDC decisions relating to non-academic misconduct. Academic appeals are considered by the University Academic Appeals Committee. An appeal must be submitted in writing to the UDC Member Secretary within 10 working days of receiving the CDC decision. It must include the appellant's name, contact address, telephone number, grounds for appeal and supporting evidence or documents.",
+            "procedure_keywords": [
+                "appeal process",
+                "appeal submission",
+                "University Disciplinary Committee",
+                "UDC",
+                "Member Secretary",
+                "appeal letter",
+                "appeal documents",
+                "academic appeal"
+            ],
+            "source_page": 20,
+            "example_queries": [
+                "How do I submit an appeal against a CDC decision?",
+                "Who receives my disciplinary appeal?",
+                "What information should I include in my appeal letter?",
+                "Where do I send my written appeal?",
+                "Who handles appeals against non-academic misconduct?",
+                "Who handles academic misconduct appeals?",
+                "What is the University Disciplinary Committee?"
+            ]
+        },
+        {
+            "procedure_id": "PROC_012",
+            "procedure_name": "Grounds for appeal",
+            "section_number": "5.2.2.3",
+            "description": "An appeal may be made on one or more of the following grounds: an error in interpreting or applying the Code; a material procedural irregularity that may have affected fairness or the outcome; failure to consider relevant evidence or unreasonable exclusion of relevant evidence; or a disciplinary measure that is unreasonable or disproportionate to the nature and seriousness of the misconduct.",
+            "procedure_keywords": [
+                "grounds for appeal",
+                "appeal reasons",
+                "unfair decision",
+                "procedural irregularity",
+                "wrong interpretation",
+                "ignored evidence",
+                "disproportionate punishment",
+                "unreasonable measure"
+            ],
+            "source_page": 20,
+            "example_queries": [
+                "What are the valid grounds for appealing a disciplinary decision?",
+                "Can I appeal if the university ignored my evidence?",
+                "Can I appeal an unfair disciplinary decision?",
+                "Can I appeal if the procedure was not followed correctly?",
+                "Can I challenge a punishment that is too severe?",
+                "What reasons can I give in my appeal letter?"
+            ]
+        },
+        {
+            "procedure_id": "PROC_013",
+            "procedure_name": "UDC appeal review timeframe",
+            "section_number": "5.2.2.4-5.2.2.5",
+            "description": "The Member Secretary shall convene the UDC within 10 working days of the appeal. The UDC may review relevant records, evidence, proceedings and the CDC decision, and may seek clarification or additional information from relevant persons.",
+            "procedure_keywords": [
+                "UDC meeting",
+                "UDC timeframe",
+                "10 working days appeal",
+                "appeal review",
+                "review evidence",
+                "additional information"
+            ],
+            "source_page": 20,
+            "example_queries": [
+                "How long does the UDC take to convene after an appeal?",
+                "When will the University Disciplinary Committee meet?",
+                "Does the UDC review evidence from the CDC?",
+                "Can the UDC request additional information?",
+                "What happens during an appeal review?"
+            ]
+        },
+        {
+            "procedure_id": "PROC_014",
+            "procedure_name": "Powers of the UDC",
+            "section_number": "5.2.3",
+            "description": "The UDC may uphold the CDC decision and dismiss the appeal, refer the matter back to the CDC for reconsideration with appropriate directions, or reverse or alter the CDC decision. The Member Secretary shall communicate the UDC decision in writing to the appellant within 5 working days of the decision, with a copy to the President of the respective College.",
+            "procedure_keywords": [
+                "UDC powers",
+                "appeal outcome",
+                "uphold decision",
+                "dismiss appeal",
+                "refer back to CDC",
+                "reverse decision",
+                "alter decision",
+                "5 working days",
+                "written appeal decision"
+            ],
+            "source_page": 21,
+            "example_queries": [
+                "What decisions can the UDC make on an appeal?",
+                "Can the UDC overturn a CDC decision?",
+                "Can the UDC reduce or change a disciplinary measure?",
+                "Can the UDC send a case back to the CDC?",
+                "Can the UDC dismiss an appeal?",
+                "How long does the UDC have to communicate its decision?",
+                "When will I receive the written appeal decision?"
+            ]
+        }
+    ],
+    "deadlines": [
+        {
+            "deadline_id": "DEADLINE_001",
+            "action": "Submit an appeal against a CDC decision",
+            "deadline_value": 10,
+            "deadline_unit": "working days",
+            "trigger": "Receipt of the CDC decision",
+            "section_number": "5.1.3.3.10",
+            "source_page": 20,
+            "example_queries": [
+                "How long do I have to appeal a CDC decision?",
+                "What is the deadline for submitting a disciplinary appeal?",
+                "Can I appeal within 10 working days?",
+                "When does the 10 working day appeal period start?",
+                "How many working days after receiving the CDC decision can I appeal?"
+            ]
+        },
+        {
+            "deadline_id": "DEADLINE_002",
+            "action": "Convene the UDC",
+            "deadline_value": 10,
+            "deadline_unit": "working days",
+            "trigger": "Submission of the appeal",
+            "section_number": "5.2.2.4",
+            "source_page": 20,
+            "example_queries": [
+                "How long does the university have to convene the UDC?",
+                "When should the UDC meet after an appeal is submitted?",
+                "Does the UDC have 10 working days to convene?",
+                "What is the timeframe for arranging an appeal hearing?"
+            ]
+        },
+        {
+            "deadline_id": "DEADLINE_003",
+            "action": "Communicate the UDC decision in writing",
+            "deadline_value": 5,
+            "deadline_unit": "working days",
+            "trigger": "The UDC decision",
+            "section_number": "5.2.3",
+            "source_page": 21,
+            "example_queries": [
+                "How many days does the UDC have to communicate its decision?",
+                "When will I receive the written UDC appeal decision?",
+                "Does the UDC have 5 working days to communicate its decision?",
+                "What is the deadline for communicating an appeal outcome?"
+            ]
+        },
+        {
+            "deadline_id": "DEADLINE_004",
+            "action": "Convene and communicate the CDC decision",
+            "deadline_value": 10,
+            "deadline_unit": "working days",
+            "trigger": "Receipt of the case by the CDC",
+            "qualification": "Where practical. If additional time is required, reasons must be recorded and the student informed of the revised timeframe.",
+            "section_number": "5.1.3.3.6-5.1.3.3.7",
+            "source_page": 20,
+            "example_queries": [
+                "How long does the CDC have to decide a misconduct case?",
+                "Does the CDC have 10 working days to communicate its decision?",
+                "When should the CDC communicate its disciplinary decision?",
+                "What happens if the CDC cannot decide within 10 working days?",
+                "When does the CDC decision timeframe begin?"
+            ]
+        }
+    ]
+}
